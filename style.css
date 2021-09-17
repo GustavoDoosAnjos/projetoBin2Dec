@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    justify-content: center;
+  }
+  
+button {
+    margin-top: 3%;
+}
+  
+.txtBinario {
+    margin-left: 6px;
+}
